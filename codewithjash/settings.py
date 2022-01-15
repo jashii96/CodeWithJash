@@ -25,7 +25,7 @@ SECRET_KEY = 'wp&15*6=%0xem42f+vzjg0h=1$js47!tme8-vb6xfpxrnm6c*f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','codewithjash.herokuapp.com']
 
 
 # Application definition
